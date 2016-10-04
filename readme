@@ -1,0 +1,4 @@
+just a sample application to build with jersey framework.
+Learned the usages of annotations like @path
+and how to use jersey with maven and without it.
+what servers to use local and remote (tomcat)
